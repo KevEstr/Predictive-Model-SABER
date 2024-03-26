@@ -1,14 +1,15 @@
-# Entrega 1 Proyecto de Modelo de Sistemas
+Participante 1:
+Kevin Estrada del Valle 
+Cédula: 1036689216
+Programa:Ingeniería de Sistemas
 
-# Integrantes:
-- *María Cristina Vergara Quinchia*
-  CC: 123456789
-  Programa: Ingeniería de Sistemas
-  
-- *Juan Andrés Rivera Arango*
-  CC: 1037666069
-  Programa: Ingeniería de Sistemas
+Participante 2:
+Juan Andrés Rivera Arango 
+Cédula: 1037666069
+Programa:Ingeniería de Sistemas
 
-- *Kevin Estrada Del Valle* 
-  CC: 1036689216
-  Programa: Ingeniería de Sistemas
+Participante 3:
+María Cristina Vergara Quinchia
+Cédula:1035232771
+Programa:Ingeniería de Sistemas
+
